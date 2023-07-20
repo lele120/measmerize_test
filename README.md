@@ -92,3 +92,10 @@ JSON schemas for both the input and output have been provided if required.
 ## Good luck
 
 And don't forget to notify nasimi.mamedov@measmerize.com once you're done!
+
+## Instruction to run the code
+
+1. install NODE, macOS version: brew install node
+2. In the project directory, run the following command to create a new package.json file: npm init -y
+3. run the code: node src/index.js   
+4. output appears  on the terminal   
